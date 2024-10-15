@@ -1,4 +1,4 @@
-Hello! 
-My name is: Maria 
-My major is: Data Science and Business Administration 
-My graduation year is: 2028!
+- Hello! 
+- My name is: Maria 
+- My major is: Data Science and Business Administration 
+- My graduation year is: 2028!
