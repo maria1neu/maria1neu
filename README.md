@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maria1neu
-- 👀 I’m interested in: soccer and food 
-- 🌱 I’m currently learning: How to code and navigate lfie 
+- 🌱 I’m currently learning: How to code and navigate life 
 - 💞️ I’m looking to collaborate on: Anything 
 - 📫 How to reach me: Email 
 - 😄 Pronouns: She/her 
