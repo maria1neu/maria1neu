@@ -15,7 +15,7 @@
 
 ## 🚀 Projects  
 
-### [EuroTour](https://github.com/maria1neu/EuroTour)  
+### EuroTour  
 *Data-driven, web-based application to improve European tourism insights*  
 - Built ML models to forecast travel trends and recommend destinations  
 - Integrated real-time APIs and interactive visualizations  
@@ -31,19 +31,6 @@
 *Helping a tech client improve conversion rates*  
 - Analyzed customer journey pain points & conducted competitor research  
 - Provided actionable recommendations that secured client interest  
-
----
-
-## 📸 Screenshots & Demos  
-*(Add when available – visuals make your work pop!)*  
-
----
-
-## 👩‍💻 Professional Experience  
-
-**Digital Marketing Associate Intern | Viva Vida (2023 – 2024)**  
-- Designed and led a campaign that tripled social media engagement  
-- Collaborated with suppliers to improve inventory forecasting  
 
 ---
 
